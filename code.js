@@ -1,3 +1,5 @@
-function setdate[
-    document.getElementById("date").innerHTML = new Date().toDateString();
-]
+function setDate()
+{ document.getElementById('date').innerHTML = new Date().toDateString(); 
+}
+
+    
